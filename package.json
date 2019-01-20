@@ -1,5 +1,5 @@
 {
-  "name": "mongo-news-scraper",
+  "name": "news-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navaato305/mongo-news-scraper.git"
+    "url": "git+https://github.com/navaato305/news-scraper.git"
   },
   "author": "David",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/navaato305/mongo-news-scraper/issues"
+    "url": "https://github.com/navaato305/news-scraper/issues"
   },
-  "homepage": "https://github.com/navaato305/mongo-news-scraper#readme",
+  "homepage": "https://github.com/navaato305/news-scraper#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "axios": "^0.16.2",
